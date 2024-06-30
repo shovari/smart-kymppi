@@ -1,0 +1,50 @@
+{
+    "cards": [
+        {
+            "id": 86,
+            "question": "Keksinnön vuosisata",
+            "options": [
+                {
+                    "option": "teleskooppi",
+                    "answer": "1600-luku"
+                },
+                {
+                    "option": "aurinkokenno",
+                    "answer": "1800-luku"
+                },
+                {
+                    "option": "kuulakärkikynä",
+                    "answer": "1900-luku"
+                },
+                {
+                    "option": "pyykkipoika",
+                    "answer": "1800-luku"
+                },
+                {
+                    "option": "tyhjiöpumppu",
+                    "answer": "1600-luku"
+                },
+                {
+                    "option": "purkinavaaja",
+                    "answer": "1800-luku"
+                },
+                {
+                    "option": "höyrykone",
+                    "answer": "1700-luku"
+                },
+                {
+                    "option": "painokone",
+                    "answer": "1400-luku"
+                },
+                {
+                    "option": "jääkaappi",
+                    "answer": "1900-luku"
+                },
+                {
+                    "option": "lentokone",
+                    "answer": "1900-luku"
+                }
+            ]
+        }
+    ]
+}
